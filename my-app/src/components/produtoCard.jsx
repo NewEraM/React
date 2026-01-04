@@ -1,4 +1,3 @@
-import ProdutoCard from "./components/ProdutoCard";
 function ProdutoCard({ nome, preco, descricao, imagem }) {
   return (
     <div className="produto-card">
